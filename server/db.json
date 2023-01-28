@@ -1,0 +1,30 @@
+{
+  "contacts": [
+    {
+      "id": "AA@JFEIFR",
+      "name": "Mikeee",
+      "photo": "https://cdn-icons-png.flaticon.com/512/219/219983.png",
+      "mobile": "9981212063",
+      "email": "abc@gmail.comwvvv",
+      "title": "IT Inductry",
+      "company": "Apple Inc.",
+      "groupId": "1"
+    },
+    {
+      "name": "Arad",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e1/%D0%A2%D0%B8%D0%BC_%D0%9A%D1%83%D0%BA_%2802-09-2021%29.jpg",
+      "mobile": "331338236",
+      "email": "kanmichael302@gmail.com",
+      "title": "Qwerty",
+      "company": "It",
+      "groupId": "1",
+      "id": "PQIWDlt"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Co-worker"
+    }
+  ]
+}
